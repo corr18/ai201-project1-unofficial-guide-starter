@@ -101,6 +101,39 @@
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+```mermaid
+flowchart TD
+    A["<b>1. Document Ingestion</b><br/>RateMyProfessors professor pages<br/>+ Coursicle CSCI listings<br/>saved as text files in documents/<br/><i>Python file I/O · pdfplumber if any PDFs</i>"]
+    B["<b>2. Chunking</b><br/>Split on review-card boundaries<br/>1 review = 1 chunk (~100-250 tokens)<br/>Overlap = 0<br/>Metadata kept: professor, course, source URL<br/><i>custom chunk_reviews() in Python</i>"]
+    C["<b>3. Embedding</b><br/>Each chunk → 384-dim vector<br/><i>all-MiniLM-L6-v2 via sentence-transformers</i>"]
+    D[("<b>Vector Store</b><br/>Persistent collection of<br/>embeddings + metadata<br/><i>ChromaDB</i>")]
+    E["<b>4. Retrieval</b><br/>Embed the user's question with the<br/>same MiniLM model, then cosine<br/>similarity search, top-k = 5<br/><i>ChromaDB .query()</i>"]
+    F["<b>5. Generation</b><br/>5 retrieved reviews + sources injected<br/>into a grounded system prompt<br/>(answer only from reviews, cite each<br/>source, refuse if not covered)<br/><i>Groq API</i>"]
+    G["<b>Query Interface</b><br/>Question box in, answer +<br/>cited source reviews out<br/><i>Gradio</i>"]
+
+    Q(["User question<br/>e.g. 'What do students say about<br/>Prof X's exams in CSCI 135?'"])
+
+    A --> B --> C --> D
+    Q --> E
+    D <--> E
+    E --> F --> G
+    G -.-> Q
+
+    subgraph OFFLINE ["Offline — build the index once"]
+        A
+        B
+        C
+        D
+    end
+
+    subgraph ONLINE ["Online — runs per question"]
+        Q
+        E
+        F
+        G
+    end
+```
+
 ---
 
 ## AI Tool Plan
