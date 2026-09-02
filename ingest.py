@@ -127,7 +127,7 @@ ARTIFACT_CHECKS = [
 ]
 
 # --- Metadata patterns -------------------------------------------------------
-COURSE_RE = re.compile(r"\b([A-Z]{3,4})\s*-?\s*(\d{3})\b")
+COURSE_RE = re.compile(r"\b([A-Z]{2,4})\s*-?\s*(\d{3})\b")
 QUALITY_RE = re.compile(r"quality[:\s]*([0-5](?:\.\d)?)", re.IGNORECASE)
 DIFFICULTY_RE = re.compile(r"difficult(?:y|ies)?[:\s]*([0-5](?:\.\d)?)", re.IGNORECASE)
 TAKE_AGAIN_RE = re.compile(r"would take again[:\s]*(yes|no)", re.IGNORECASE)
@@ -137,7 +137,13 @@ DATE_RE = re.compile(
     r"|\d{1,2}/\d{1,2}/\d{2,4})\b"
 )
 URL_RE = re.compile(r"https?://\S+|(?:www\.)?ratemyprofessors\.com/\S+|(?:www\.)?coursicle\.com/\S+")
+# "CSCI201" / "CSCI-201" -> "CSCI 201", so a question that spaces the course code
+# the normal way matches the review that didn't.
+COURSE_CODE_RE = re.compile(r"\b([A-Z]{2,4})\s*-?\s*(\d{3}[A-Z]?)\b")
 SEPARATOR_RE = re.compile(r"^\s*(?:[-=*_]{3,}|#{1,6}\s.*)\s*$")
+# A block that opens with its rating line is a complete card, however short the
+# student's comment is. "Excellent" is a whole review, not a fragment.
+CARD_START_RE = re.compile(r"^\s*Quality:\s*[0-5]", re.IGNORECASE)
 
 
 @dataclass
@@ -260,7 +266,7 @@ def clean_text(raw: str) -> str:
         kept.append(line)
     text = "\n".join(kept)
     text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+    return COURSE_CODE_RE.sub(r"\1 \2", text).strip()
 
 
 def professor_from_filename(path: Path) -> str | None:
@@ -363,7 +369,7 @@ def merge_fragments(blocks: list[str]) -> list[str]:
     pending: list[str] = []
 
     for block in blocks:
-        if estimate_tokens(block) < FRAGMENT_TOKENS:
+        if estimate_tokens(block) < FRAGMENT_TOKENS and not CARD_START_RE.match(block):
             pending.append(block)
             continue
         merged.append("\n".join(pending + [block]))

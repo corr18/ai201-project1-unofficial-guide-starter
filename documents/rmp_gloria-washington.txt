@@ -3,4 +3,204 @@ PROFESSOR: Gloria Washington
 DEPARTMENT: Computer Science
 SCHOOL: Howard University
 ---
->>> PASTE Gloria Washington's 18 review cards below, one blank line between each. Delete this line.
+Quality: 1.0
+Difficulty: 2.0
+Course: CSCI410
+Date: Dec 16th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+she is extremely rude
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI580
+Date: Oct 31st, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Do not take this Professor if you have a choice. One of the worst in the department.
+
+Quality: 1.0
+Difficulty: 3.0
+Course: CSCI135
+Date: Apr 26th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+She never gives clear instructions and is an absolute nightmare to have a civil conversation with. Not recommended.
+Tags: Group Projects
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI135
+Date: Mar 15th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+Online Class: Yes
+Terrible professor. Please don't take
+Tags: Tough Grader, Participation Matters, Lecture Heavy
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI136
+Date: May 17th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Dr. Washington is a great teacher overall. She gives a lot of pop quizzes but you can sometimes tell when she'll give it + the quizzes weren't that hard. She also gives enough extra credit so that you can boosting your grade up if necessary. Some students don't deserve the kindness she gives.
+Tags: Accessible Outside Class, Beware Of Pop Quizzes, Extra Credit
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI580
+Date: May 7th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Dr. Washington is super dope! The only professor in the department that i can really relate too! and thats saying alot.
+Tags: Lots Of Homework, Group Projects, Lecture Heavy
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCI551
+Date: May 7th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Man that project was hard. But at the end of the day pull your bootstraps up and get to work. The professor has reasonable expectations from her students.
+Tags: Participation Matters, Graded By Few Things, Group Projects
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCI551
+Date: May 7th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Requirements are very clear, follow them and you shouldnt have a problem in the class.
+Tags: Gives Good Feedback, Lots Of Homework, Lecture Heavy
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCI551
+Date: May 7th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Dr. Washington is amazing, shes actually cares about her students unlike other proffessors. She drills it in you, be an adult, dont take the easy way out, etc. Her classes are about accountablity, if you communicate clearly with her you shouldnt have a problem.
+Tags: Lots Of Homework, Group Projects, Caring
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCI551
+Date: May 7th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Dr. Washington is a really good professor. She's extremly fair and is a peoples person, dont be afraid to stop by her office or talk to her after class. She is one of the only Black female Proffessors in the department, TREAT HER WITH THE UPMOST RESPECT! PERIOD! She tends to lecture a bit much in class but she's very knowledgeable in the subjects
+Tags: Respected, Accessible Outside Class, Participation Matters
+
+Quality: 1.0
+Difficulty: 3.0
+Course: CSCI136
+Date: Jul 12th, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: F
+Textbook: Yes
+AWFUL teacher. DON'T TAKE THIS LADY. Doesn't know how to explains concepts well. Doesn't grade fairly and will fail you without hesitation. Gives pop quizzes nearly every week, so if you missed class that day it's an automatic zero. Must also nag her to fix your grade. She's more fair to student that she likes which are usually girls.
+Tags: Tough Grader, Beware Of Pop Quizzes, Lecture Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI136
+Date: Jun 12th, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Don't take this Professor, she is an awful teacher and grader, has no idea of her materials. if she does not like you, you are failing her class whether you got an A or B she makes excuses for failing you. speaking from experience.
+Tags: Tough Grader, Skip Class? You Won'T Pass., Test Heavy
+
+Quality: 1.0
+Difficulty: 3.0
+Course: CSCI136
+Date: May 28th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+This class isnt even difficult. Shes just really disorganized and makes everything hard. She Makes a lot of mistakes with grades, always thinks everyone is cheating, just run.
+Tags: Tough Grader, Lots Of Homework, Beware Of Pop Quizzes
+
+Quality: 1.0
+Difficulty: 4.0
+Course: CSCI136
+Date: May 15th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+She doesn't teach the material well, this class is only for people who are strong in programming. She's not very helpful during office hours either and doesn't grade fair. She's so bad at teaching that she literally asked a STUDENT to teach her class. I had to email her SEVERAL times to get my grade fixed!!
+Tags: Tough Grader, Beware Of Pop Quizzes, Accessible Outside Class
+
+Quality: 3.0
+Difficulty: 4.0
+Course: CSI136
+Date: May 14th, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+Good Professor but explains data structures such as linked list not so well through zybooks so to make sure you understand everything well go to boot camp which is tutoring for cs students to understand all the concepts espescially data structures such as linked lists,stacks,queues.
+
+Quality: 1.0
+Difficulty: 4.0
+Course: CSCI136
+Date: Apr 27th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Gives quizzes once a week. The homework and lab assignments are extremely hard unless you are a strong programmer.
+Tags: Tough Grader
+
+Quality: 2.0
+Difficulty: 3.0
+Course: CSCI135
+Date: Jan 9th, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Rather not say
+Textbook: Yes
+Fair grader, but content not always clear. Actually, often her quizzes and tests have mistakes or multiple answers could be right but she'd mark you wrong because it didn't match her exact interpretation. You will have to argue for every point. Depending on the day, you'll get the points. But if you've ever skipped class or offended her, beware!
+Tags: Participation Matters, Lots Of Homework
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI410
+Date: Dec 12th, 2015
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+She is a new professor but very knowledgeable and helpful. Go to her office hours if you need help but you shouldn't have to. Her requirements are very clear and there are always reviews before quizzes and exams. Enthusiastic personality helps you stay awake in class!

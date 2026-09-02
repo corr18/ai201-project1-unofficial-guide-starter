@@ -3,4 +3,166 @@ PROFESSOR: Noha Hazzazi
 DEPARTMENT: Computer Science
 SCHOOL: Howard University
 ---
->>> PASTE Noha Hazzazi's 14 review cards below, one blank line between each. Delete this line.
+Quality: 4.0
+Difficulty: 2.0
+Course: CSCI120
+Date: Nov 15th, 2024
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+This class felt like a waste of time but I don't know who to blame because I think Hazzazi did the best she could. It was just a bunch of guest speakers over and over again and then one big project. It felt like the CS equivalent of Freshman seminar. Attendance IS mandatory and pop quizzes are frequent!!!
+Tags: Group Projects, Beware Of Pop Quizzes
+
+Quality: 2.0
+Difficulty: 4.0
+Course: CSCI135
+Date: May 15th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Take note that students saying that she is amazing have Bs and Cs. Do not take her if you care about your grade. Labs and assignments were fine but she barely prepared students for her exams which were on topics she barely focused on. She only cares about coding in class and assignments then exams were based on the most random text book principles.
+Tags: Test Heavy, Graded By Few Things, Accessible Outside Class
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI354
+Date: Jan 10th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: Yes
+I learned a lot from this class. Some students did not want to come to class or attend class plus constantly kept asking for extensions. Then they complained that they did not understand the material while Dr. Hazzazi was always available. Every-time I reach out she was very helpful. She is very Fair.
+Tags: Gives Good Feedback, Respected, Lots Of Homework
+
+Quality: 1.0
+Difficulty: 5.0
+Course: 90899
+Date: Dec 18th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Online Class: Yes
+Show up to class!! They literally taught nothing all semester it was just guest speaker after guest speaker but they would throw in pop quizzes out of nowhere. Teach you nothing but expect you to be able to do hard projects.
+Tags: Skip Class? You Won'T Pass., Group Projects, Beware Of Pop Quizzes
+
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCI354
+Date: Nov 8th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Learned from this class but you have to do your work. Cheat and you will get a zero. Very fair and would take another class with Dr. Hazzazi.
+Tags: Accessible Outside Class, Inspirational, Clear Grading Criteria
+
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCI135
+Date: Nov 8th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: Yes
+Dr. Hazzazi was amazing, she helped me understanding C++ which I was struggling with in my past semester. Some students were not happy with their grades as they wanted extension after extension which Dr. Hazzazi refused. If you want to learn take Dr. Hazzazi
+Tags: Gives Good Feedback, Respected, Accessible Outside Class
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI452
+Date: Apr 21st, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Dr. Hazzazi was did a great job explaining the lectures and simplified very well. Also, Dr. Hazzazi was very supportive to providing real life examples. It was fun and educational. Her quizzes and exams were very fair. You really do not need to study after her lecture. What is really nice is she also records lectures other than the actual class.
+Tags: Gives Good Feedback, Respected, Amazing Lectures
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI354
+Date: Jan 13th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Dr. Hazzazi's commitment and willingness to help her students, especially during this unprecedented time, contributed to my learning. She often went out of her way to do extra sessions with students who were having trouble with assignments and she also provided outside resources for us to use when in-class explanations weren't enough.
+Tags: Gives Good Feedback, Respected, Accessible Outside Class
+
+Quality: 3.0
+Difficulty: 4.0
+Course: CSCI135
+Date: Apr 1st, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: C+
+Textbook: Yes
+Online Class: Yes
+Dr. Hazzazzi is empathetic to an extent. I think she wasn't as considerate when it came to our grades. The whole class' grade dropped at least a letter grade for a midterm that she poorly prepared us for. She gave us a bad study guide days before the exam and didn't even show up and the midterm had many errors which she wasn't there to fix.
+Tags: Respected, Get Ready To Read, Participation Matters
+
+Quality: 1.0
+Difficulty: 4.0
+Course: CSCI135
+Date: Dec 9th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+She's terrible, PERIODT!! it's quite unfortunate she's the only option so good luck lol.
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI100
+Date: Jun 11th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Honestly, her class was really boring so I didn't listen to any of her lectures. But other than that she was really nice and helped people a lot. There are a lot of group projects which is kinda annoying. The test and quizzes are really easy just use your resources. Final was hard but I think she curved it.
+Tags: Respected, Group Projects, Caring
+
+Quality: 4.0
+Difficulty: 5.0
+Course: CSCI135
+Date: Dec 6th, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: No
+Dr. Hazzazi truly cares about her students and is actually available during office hours. I took her for CSCI-135, my first computer science class. She was always there to be helpful, even though I struggled a lot. You will have a lot of work to do, as she is heavily micro-managed by Keeling who assigns the work. But I highly suggest her anyway!
+Tags: Respected, Lots Of Homework, Accessible Outside Class
+
+Quality: 5.0
+Difficulty: 2.0
+Course: CSCI135
+Date: Nov 28th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+5 STARRRR, I love Professor Hazzazi. She is so nice. She made my first class in computer science memorable. take her asap
+Tags: Respected, Inspirational, Accessible Outside Class
+
+Quality: 5.0
+Difficulty: 2.0
+Course: CSCI135
+Date: Nov 4th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Hey all, Professor Hazzazi is definitely a professor I will take over and over again. If i see her name as an instructor for a CS course, I will def register for her. I think her best trait is her flexibilty. I took her for the first class she taught at Howard. She is understandable and gave chances to resubmit assignments and her teaching is good.
+Tags: Lots Of Homework, Amazing Lectures, Caring

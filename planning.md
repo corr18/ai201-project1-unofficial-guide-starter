@@ -20,18 +20,25 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | RateMyProfessors — Howard CS professor index | Listing page I used to find every CS professor with reviews; not a review source itself | https://www.ratemyprofessors.com/search/professors/421?did=11 |
-| 2 | Jeremy Blackstone (RMP) | 12 student reviews, 4.8/5 quality, 2.3 difficulty, 92% would take again | https://www.ratemyprofessors.com/professor/2640220 → `documents/rmp_jeremy-blackstone.txt` |
-| 3 | Anamika Rupa (RMP) | 6 reviews, 2.0/5 quality, 3.2 difficulty, 17% would take again — a low-rated counterweight | https://www.ratemyprofessors.com/professor/2976470 → `documents/rmp_anamika-rupa.txt` |
-| 4 | Noha Hazzazi (RMP) | 14 reviews, 3.9/5 quality, 3.6 difficulty, 72% would take again | https://www.ratemyprofessors.com/professor/2418869 → `documents/rmp_noha-hazzazi.txt` |
-| 5 | Saurav Aryal (RMP) | 8 reviews, 3.8/5 quality, 2.9 difficulty, 63% would take again | https://www.ratemyprofessors.com/professor/2672438 → `documents/rmp_saurav-aryal.txt` |
-| 6 | Howard University school page (RMP) | School-level student comments — campus context rather than a single course | https://www.ratemyprofessors.com/school/421 → `documents/rmp_howard-school.txt` |
-| 7 | Alex Krentsel (RMP) | 2 reviews, 5.0/5 quality, 4.0 difficulty — small sample, useful for testing thin retrieval | https://www.ratemyprofessors.com/professor/2725790 → `documents/rmp_alex-krentsel.txt` |
-| 8 | Jiang Li (RMP) | 25 reviews, 1.6/5 quality, 4.7 difficulty, 16% would take again — the largest and most negative set | https://www.ratemyprofessors.com/professor/2323879 → `documents/rmp_jiang-li.txt` |
-| 9 | Gloria Washington (RMP) | 18 reviews, 2.7/5 quality, 3.7 difficulty, 42% would take again — mixed opinions | https://www.ratemyprofessors.com/professor/2084505 → `documents/rmp_gloria-washington.txt` |
-| 10 | Coursicle — Howard CSCI course listings | Course codes and titles, so questions naming a course number can be matched to the right reviews | https://coursicle.com/howard/courses/CSCI/ → `documents/coursicle_csci_courses.txt` |
+| 1 | RateMyProfessors — Howard CS professor index | Listing page I used to find every CS professor with reviews; not a review source itself | https://www.ratemyprofessors.com/search/professors/421?q=*&did=11 |
+| 2 | Jeremy Blackstone (RMP) | 12 written reviews, 4.8/5 quality, 2.3 difficulty, 92% would take again | https://www.ratemyprofessors.com/professor/2640220 → `documents/rmp_jeremy-blackstone.txt` |
+| 3 | Anamika Rupa (RMP) | 6 written reviews, 2.0/5 quality, 3.2 difficulty, 17% would take again | https://www.ratemyprofessors.com/professor/2976470 → `documents/rmp_anamika-rupa.txt` |
+| 4 | Noha Hazzazi (RMP) | 14 written reviews, 3.9/5 quality, 3.6 difficulty, 72% would take again | https://www.ratemyprofessors.com/professor/2418869 → `documents/rmp_noha-hazzazi.txt` |
+| 5 | Saurav Aryal (RMP) | 8 written reviews, 3.8/5 quality, 2.9 difficulty, 63% would take again | https://www.ratemyprofessors.com/professor/2672438 → `documents/rmp_saurav-aryal.txt` |
+| 6 | Alex Krentsel (RMP) | 2 written reviews, 5.0/5 quality, 4.0 difficulty, 100% would take again | https://www.ratemyprofessors.com/professor/2725790 → `documents/rmp_alex-krentsel.txt` |
+| 7 | Jiang Li (RMP) | 26 written reviews, 1.6/5 quality, 4.7 difficulty, 16% would take again | https://www.ratemyprofessors.com/professor/2323879 → `documents/rmp_jiang-li.txt` |
+| 8 | Gloria Washington (RMP) | 18 written reviews, 2.7/5 quality, 3.7 difficulty, 42% would take again | https://www.ratemyprofessors.com/professor/2084505 → `documents/rmp_gloria-washington.txt` |
+| 9 | Moses Garuba (RMP) | 11 written reviews, 4.0/5 quality, 3.8 difficulty, 100% would take again | https://www.ratemyprofessors.com/professor/287385 → `documents/rmp_moses-garuba.txt` |
+| 10 | Anil Jain (RMP) | 11 written reviews, 4.4/5 quality, 1.7 difficulty, 100% would take again | https://www.ratemyprofessors.com/professor/548120 → `documents/rmp_anil-jain.txt` |
+| 11 | Linwei Niu (RMP) | 8 written reviews, 1.9/5 quality, 3.0 difficulty, 25% would take again | https://www.ratemyprofessors.com/professor/2719629 → `documents/rmp_linwei-niu.txt` |
+| 12 | Danny Harris (RMP) | 7 written reviews, 3.5/5 quality, 3.7 difficulty, 0% would take again | https://www.ratemyprofessors.com/professor/956152 → `documents/rmp_danny-harris.txt` |
+| 13 | A. Nicki Washington (RMP) | 6 written reviews, 3.5/5 quality, 2.7 difficulty, 100% would take again | https://www.ratemyprofessors.com/professor/997067 → `documents/rmp_nicki-washington.txt` |
 
-**Expected corpus size:** 85 reviews across the 7 professor pages, so roughly 85–95 chunks once the school and Coursicle pages are added — above the 50-chunk floor and far under the 2,000 ceiling.
+**Actual corpus size:** 129 written reviews across 12 professors → 129 chunks, one per review. Above the 50-chunk floor and far under the 2,000 ceiling.
+
+**Two planned sources were dropped, and why:**
+- `coursicle.com/howard/courses/CSCI` blocks automated browsers outright ("You don't smell human..."), headless or not. I did not try to defeat the block.
+- `ratemyprofessors.com/school/421` is campus-level review — food, dorms, safety, wifi — which is off-domain for a CS professor system and would have put noise into retrieval. Replaced both with five more Howard CS professors (Garuba, Jain, Niu, Harris, A. Nicki Washington) from the department index, which keeps every source on-domain.
 
 ---
 
@@ -47,6 +54,8 @@
 **Overlap:** 0
 
 **Reasoning:**- Itll be made up of short, review card reviews. Because RateMyProfessor already is made up of reviews in self-contained information. Keeping it in one chunk preserves the context of the students experience.
+
+**Measured after implementation (Milestone 3):** The boundary rule held — 129 reviews produced exactly 129 chunks, one per card, overlap 0. The *size* estimate did not: real reviews run 20–133 estimated tokens with a median of 92, so only 37% land inside the 100–250 range I predicted. Howard CS reviews are simply shorter than I assumed, and some are a single sentence ("I LOVE Dr. Li hes the GOAT i would take him again"). I kept the card boundary rather than padding short reviews or merging neighbors, because merging would attribute one student's words to another student's rating — the exact failure this domain punishes. The 100–250 figure now serves as a warning band in the chunk report, not as a splitting rule.
 
 ---
 

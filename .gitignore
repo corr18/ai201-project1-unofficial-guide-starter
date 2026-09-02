@@ -19,3 +19,6 @@ chroma/
 # macOS
 .DS_Store
 .env
+
+# Derived from documents/ by ingest.py
+raw_text/

@@ -3,4 +3,146 @@ PROFESSOR: Jeremy Blackstone
 DEPARTMENT: Computer Science
 SCHOOL: Howard University
 ---
->>> PASTE Jeremy Blackstone's 12 review cards below, one blank line between each. Delete this line.
+Quality: 5.0
+Difficulty: 1.0
+Course: CSCI135
+Date: Mar 26th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Most simplistic and straightforward professor ever. All assignments (not many or difficult by any means) are posted at the beginning. You can work at your own pace while following along during lectures if needed. If you already know C++, this is like a review course. Exams follow the homework structure. Most carefree class, takes up little time.
+Tags: Extra Credit, Clear Grading Criteria, Graded By Few Things
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CSCI135
+Date: Oct 2nd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Honestly the best computer science professor ever! He genuinely wants you to learn and sets you up for your career outside of Howard. I couldn't ask for a better professor.
+Tags: Participation Matters, Extra Credit, Clear Grading Criteria
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CSCI135
+Date: May 1st, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+The goat!!
+Tags: Respected
+
+Quality: 2.0
+Difficulty: 1.0
+Course: CSCI454
+Date: Apr 21st, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+I'm astounded at all the good reviews. His class was embarrassingly sloppy. It's finals week for SRs, & he has graded ONE assignment. "Lessons" were lazy ppts. He posted the wrong final, so he sneakily changed all the questions. Didn't tell anyone! Students noticed it. I'd already submitted it! Did I mention that he's only graded ONE ASSIGNMENT??
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCSI135
+Date: Dec 14th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Definetely top 3 (not 3 or 2) professors in CEA/Howard. Actually cares about you UNDERSTANDING.
+Tags: Hilarious, Respected, Accessible Outside Class
+
+Quality: 5.0
+Difficulty: 2.0
+Course: CSCI135
+Date: Aug 28th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Take him if you want an A. Excellent at explaining difficult concepts. Will make himself available outside of class. Very understanding and actually cares about his students.
+Tags: Extra Credit, Clear Grading Criteria, Gives Good Feedback
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCI135
+Date: Jun 22nd, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+Online Class: Yes
+He honestly is the most understanding teacher Ive had since attending Howard and he is great at explaining the work. He is a chill teacher so if you need extra time on assignments he will most likely give it. Just pay attention in class, ask questions, AND GO TO OFFICE HOURS!!
+Tags: Clear Grading Criteria, Gives Good Feedback, Caring
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CSCI135
+Date: May 10th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Take this class if you want an A. Professor Blackstone is a great teacher especially if you're new to coding. Records his lectures and is very lenient with late work. Go to his office hours if you're confused he is very understanding.
+Tags: Extra Credit, Amazing Lectures, Gives Good Feedback
+
+Quality: 5.0
+Difficulty: 2.0
+Course: CSI135
+Date: Dec 5th, 2021
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Such an incredible professor . He is understanding . Genuinely wants you to understand the work and do well .
+Tags: Respected, Accessible Outside Class, Caring
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSI135
+Date: Nov 1st, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+10/10 would recommend! He's super understanding about late work and his office hours are really flexible. He really wants his students to do well and gives extra credit. He's just a great guy and I would take him again in a heartbeat.
+Tags: Respected, Inspirational, Caring
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCSI135
+Date: Nov 1st, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Online Class: Yes
+One of the best teachers I've had in my life, and if he taught Computer Science II (CSCSI136) I definitely would want to have him as my professor again. Very articulate, and explains all uncertainties you may have. Very understanding with due dates, formal assignments, and quizzes. All in all, he is a 10 out of 10 and I would learn from him again!
+Tags: Gives Good Feedback, Inspirational, Amazing Lectures
+
+Quality: 5.0
+Difficulty: 4.0
+Course: CSCI135
+Date: Nov 18th, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Online Class: Yes
+Excellent teacher... always
+Tags: Gives Good Feedback, Accessible Outside Class, Caring

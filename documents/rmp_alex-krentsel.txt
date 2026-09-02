@@ -3,4 +3,27 @@ PROFESSOR: Alex Krentsel
 DEPARTMENT: Computer Science
 SCHOOL: Howard University
 ---
->>> PASTE Alex Krentsel's 2 review cards below, one blank line between each. Delete this line.
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCI 100
+Date: Jul 25th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Excellent
+Tags: Gives Good Feedback, Inspirational, Respected
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI 100
+Date: Apr 10th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Took him for intro to computer science and I'm not sure I could've gotten anyone better. He releases lectures before class and the videos are very easy to understand. He was easily accessible outside class hours (even outside office hours) and was always ready to give tips to help for our lab assignments. You really can't go wrong with Alex.
+Tags: Extra Credit, Amazing Lectures, Accessible Outside Class

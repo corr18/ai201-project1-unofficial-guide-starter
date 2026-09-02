@@ -3,4 +3,97 @@ PROFESSOR: Saurav Aryal
 DEPARTMENT: Computer Science
 SCHOOL: Howard University
 ---
->>> PASTE Saurav Aryal's 8 review cards below, one blank line between each. Delete this line.
+Quality: 5.0
+Difficulty: 2.0
+Course: CSCI354
+Date: Apr 26th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Very clear expectations from the beginning. He is very understanding and seems like a real person who understands human errors. He's very casual and easy to understand and ask questions.
+Tags: Extra Credit, Group Projects, Clear Grading Criteria
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CSCI135
+Date: Oct 31st, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Very clear about the expectations for the semester. Complete the labs which are basically leetcode type questions and you will get an A. There is a personal project for extra credit and karat interview for another extra credit. He is really knowledgeable and is always ready to help you in anything related to CS.
+Tags: Extra Credit, Amazing Lectures, Clear Grading Criteria
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CSCI135
+Date: Oct 31st, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Very caring professor! Lots of extra credit opportunity. He also gives lots of problems similar to those asked in programming interviews. His teaching has a mixture of both theoretical and practical aspect of Computer Science.
+Tags: Participation Matters, Group Projects, Caring
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CSCI136
+Date: Jul 26th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: N/A
+Online Class: Yes
+He has first-hand experience with the courses at the university and so he will be very fair and patient with you, as long as you are the same with him. Put in the effort and be willing to cooperate with your classmates, and you'll get at least a C+.
+Tags: Participation Matters, Extra Credit, Gives Good Feedback
+
+Quality: 2.0
+Difficulty: 4.0
+Course: CSCI135
+Date: Mar 16th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Online Class: Yes
+If you like sitting at your computer for hours upon hours trying to debug code and pass test cases that were horribly made by Dr. Aryal and his TAs after trying to decipher the poorly written instructions for the assignment...I'd be the first to recommend this class to you. Otherwise, stay as far away as possible.
+
+Quality: 2.0
+Difficulty: 4.0
+Course: CSCI135
+Date: Mar 16th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+No. The students would show up to the office hours zoom and the TAs wouldnt respond. Assignments were always buggy, no clear instructions for labs, inconvenient last minute changes to assignments, Dr. Saurav is a nice guy and I wish him the best but I wouldn't recommend taking this class at all. Especially since python is taught in csci100
+
+Quality: 4.0
+Difficulty: 3.0
+Course: CSCI135
+Date: Dec 12th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+Online Class: Yes
+Prof Aryal is a very nice guy, but he's a pretty new teacher so he's still kinda figuring it out. As someone with lots of programming experience, even I found myself baffled by one or two of his assignments (in a beginner level class!). I can imagine it could probably get pretty difficult and confusing for a true beginner. But he does really care.
+Tags: Caring
+
+Quality: 2.0
+Difficulty: 5.0
+Course: CSCI136
+Date: Nov 20th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Online Class: Yes
+The reason I give Saurav a one star is because of his terrible assignments. His class has made me question myself, because he teaches one thing and assigns something else. I do not recommend him he is a caring teacher but doesnt teach enough for students to understand his assessment.
+Tags: Extra Credit, Group Projects, Caring

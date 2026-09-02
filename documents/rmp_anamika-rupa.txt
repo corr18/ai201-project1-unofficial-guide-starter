@@ -3,4 +3,69 @@ PROFESSOR: Anamika Rupa
 DEPARTMENT: Computer Science
 SCHOOL: Howard University
 ---
->>> PASTE Anamika Rupa's 6 review cards below, one blank line between each. Delete this line.
+Quality: 2.0
+Difficulty: 1.0
+Course: CSCI120
+Date: Mar 26th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Reads off of slides, doesn't teach much. Quizzes/exams replicate slides tho, so just memorize them if needed. Lectures are short but boring.
+Tags: Lots Of Homework, Test Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI120
+Date: Apr 9th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: N/A
+Not a good professor, doesn't know what she is doing! Too much homework for 2 credit class and its honestly not even that good. Take another professor if possible
+Tags: Tough Grader, Lots Of Homework, Lecture Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI453
+Date: Apr 8th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: N/A
+This professor is bad with communication, she doesn't really teach in class! Had so many problems this semester and tried to talk to her about it but no response! Uses chatgpt, slides and so much work load! Doesn't understand simple questions.
+Tags: Tough Grader, Lots Of Homework, Test Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI453
+Date: Apr 8th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: D
+Textbook: N/A
+This professor is the worst i have taken so far, idk why she is even a PhD candidate ! Like using chat in class to explain stuff! So many slides and she doesn't even know what she teaching, so much codio and quizzes on top of that midterm and final! She is the worst
+Tags: Tough Grader, Lots Of Homework, Test Heavy
+
+Quality: 2.0
+Difficulty: 2.0
+Course: CSCI120
+Date: Mar 19th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+She was new when I had her, and for the most part it seemed like she didn't know what she was doing. It was an easy class, but I can't really say that I learned anything from her. She was very lenient with her grading though. Also, for a class called exploring computer science, we didn't really learn much about computer science.
+Tags: Participation Matters, Lots Of Homework, Lecture Heavy
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CSCI453
+Date: Jan 12th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+She is a new professor so I'd say that contributed to the class being easy. Seemed very lenient but the course work is bulky. Read off lecture slides which we already had. The homework is easy to do but there's a lot. If she is an option for cyber security 1, take her. I can't guarantee that for any other course though.
+Tags: Participation Matters, Extra Credit, Lots Of Homework

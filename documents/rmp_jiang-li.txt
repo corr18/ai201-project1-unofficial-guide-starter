@@ -3,4 +3,297 @@ PROFESSOR: Jiang Li
 DEPARTMENT: Computer Science
 SCHOOL: Howard University
 ---
->>> PASTE Jiang Li's 25 review cards below, one blank line between each. Delete this line.
+Quality: 2.0
+Difficulty: 5.0
+Course: CSCI201
+Date: May 23rd, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Spends time going through concepts but expects too much from students. Assignments were unrealistic in load and very time-consuming. Exams, assignments and projects were submitted through an old website he had, causing many errors and difficulties to get questions right. Better to take a different professor for this one.
+Tags: Tough Grader, Lots Of Homework
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: May 4th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: D+
+Textbook: N/A
+Do not take this class if you love your life. He will drain you and drain your GPA. He does not care about his students at all, no opportunity for extra credit. He decides Willy nilly if you cheated on a project and make you interview for a grade on a project. Take the other professor, wait as long as you need to take another professor.
+Tags: Tough Grader, Graded By Few Things
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Apr 14th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+One of the worst professors I've ever had. He doesn't teach/explain anything in depth, when asked to clarify he won't b/c we should just get it and it's easy. He refuses to work with students, ridicule you if you don't understand, and will accuse you of cheating on projects if you don't have his level of understanding or perfect grasps on concepts.
+Tags: Tough Grader, Lots Of Homework, Lecture Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Mar 26th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Please avoid this professor at all costs. Homework is worth more than the exams. He doesn't cover anything presented in the homework/exams during his lectures. Projects are difficult, and he doesn't teach you how to do them. Lectures are long, boring, and he expects you to participate despite not teaching you anything at all. Steer clear.
+Tags: Tough Grader, Lecture Heavy, Graded By Few Things
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI453
+Date: Dec 8th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Li is literally the worst teacher I have ever had at Howard. Don't take any of his classes. He is trying to fail me in an intro class for a mistake that HE made.
+Tags: Tough Grader, Beware Of Pop Quizzes
+
+Quality: 5.0
+Difficulty: 5.0
+Course: CSCI450
+Date: Sep 23rd, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Hard but good
+Tags: Clear Grading Criteria, Beware Of Pop Quizzes, Lecture Heavy
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CS201
+Date: Jun 17th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: Yes
+I LOVE Dr. Li hes the GOAT i would take him again
+Tags: Inspirational, Caring, Respected
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Nov 24th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: F
+Textbook: N/A
+DO NOT TAKE THIS PROFESSOR HE IS SO HORRIBLE
+Tags: Tough Grader, Beware Of Pop Quizzes, Lecture Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI450
+Date: Sep 20th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+How is this guy not fired yet seriously
+Tags: Tough Grader, Lecture Heavy, Test Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI450
+Date: Sep 20th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: Yes
+The worst teacher and hardest classes. He only teaches from slides and the main communication is piazza. Very rude, talks over students asking questions, and very boring. Gives very little information before sending you to do so much homework. Nowhere near flexible, very inconsiderate, and a clear lack of passion for teaching. Avoid him if you can
+Tags: Tough Grader, Lecture Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI202
+Date: Apr 24th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Do not take this course unless you absolutely have to. Professor Li is very hard to work with and refuses to budge on his personal method of teaching that obviously does not work. His lectures consist of slides and slides only. He has his own website for homework that is often buggy, and the homework takes 8+ hours to get 100% correct.
+Tags: Tough Grader, Get Ready To Read, Lots Of Homework
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CS201
+Date: Jan 24th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Just a horrible teacher, and he created his own website for homeworks and exams which is filled with difficult problems that he has never gone over during lecture and will never no matter how many times you ask.
+Tags: Tough Grader, Participation Matters, Lots Of Homework
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI450
+Date: Oct 19th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Incomplete
+Textbook: N/A
+Worst professor at Howard. His tests and homework are totally different from what he taught in class. Even if you cover everything he taught in class, you wouldn't be able to solve his tests. And he is reluctant to discussing them in class.
+Tags: Tough Grader, Group Projects, Lots Of Homework
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI450
+Date: Dec 17th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Grade: F
+Textbook: N/A
+Online Class: Yes
+Terrible professor tbh. I'd advise taking it at another school.
+Tags: Get Ready To Read, Lecture Heavy
+
+Quality: 3.0
+Difficulty: 5.0
+Course: CS201
+Date: Dec 1st, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+this class is hard and the homework/projects require a lot of time. dr li's lectures are boring but he's helpful especially if you go to office hours. he is considerate if you meet him with a legitimate reason. overall, the workload is excessive but makes you learn the material. he gives quizzes in class based on the previous lecture
+Tags: Clear Grading Criteria, Lots Of Homework, Lecture Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Apr 21st, 2022
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Teacher is proud of saying nobody has ever gotten an A. Isn't flexible and won't help you if your failing. Homework takes hours and the test are even harder. Do not take this class it's extremely stressful and not worth your time!
+Tags: Lots Of Homework, Test Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Apr 14th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+This is a difficult class! The lectures are long and packed with information. They are difficult to sit through as well. The homework system is horrible and takes hours to complete. His exams are extremely difficult in comparison to the homework and example problems. As a professor Li is very monotonous and inconsiderate.
+Tags: Tough Grader, Lecture Heavy
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Jan 4th, 2022
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: D
+Textbook: No
+His homework website is torture and his lectures are monotone and not engaging. Be careful.
+Tags: Lots Of Homework, Get Ready To Read, Tough Grader
+
+Quality: 1.0
+Difficulty: 2.0
+Course: CSCI450
+Date: Dec 11th, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: Yes
+Avoid this person if you can, if not be ready to suffer. Ive never had a professor more proudly and explicitly show that they DID NOT care about the learning and overall wellbeing of their students as Li has shown. He provides little to no concessions to his students, regardless of the situation. Being his student has taken 5 yrs off my life.
+Tags: Lots Of Homework, Test Heavy, Tough Grader
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI450
+Date: Nov 18th, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+Online Class: Yes
+He is most likely going to be the only professor that you can take but if there are other options take them. He is the most inconsiderate professor you would probably ever take. He is also very lazy so he only teaches when he is forced to. Get tight with your classmates because they will be your ride or dies.
+Tags: Lots Of Homework, Test Heavy, Beware Of Pop Quizzes
+
+Quality: 2.0
+Difficulty: 5.0
+Course: CSCI202
+Date: Nov 5th, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: Yes
+This is a terrible professor. You basically have to beg him to actually teach you the material. He will make you feel stupid for asking questions. There are pop quizzes basically every class. His homework is unbelievable difficult and he gives no instruction on how to do it until after it's assigned. Also, not very accomodating during COVID
+Tags: Lots Of Homework, Accessible Outside Class, Get Ready To Read
+
+Quality: 4.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Aug 23rd, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Dr. Li cares about students deeply learning the coursework. However, his homeworks sometimes require you to spend a lot of hours on them. He's pretty reasonable with homework; if you explain to him legitimate reasons why the work is unaccomplishable or any troubles you had, he's willing to give a second chance.
+Tags: Lots Of Homework, Accessible Outside Class, Tough Grader
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Oct 17th, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: Yes
+Dr. Li does not like to teach. When students have questions he is offended that the student does not know it already. He does not take the time to teach and show examples, Dr. Li does not take the time to help. This guy does not know how to teach a class. Unless you are a senior who already knows everything this will be difficult.
+Tags: Lots Of Homework, Get Ready To Read, Tough Grader
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Apr 22nd, 2019
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: Yes
+Probably the worst professor in the department. He gives way too much homework and is horrible at lecturing. Not to mention his snarky attitude makes you not want to show up to class, but you have too since attendance is graded.
+Tags: Lots Of Homework, Lecture Heavy, Tough Grader
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CS201
+Date: Feb 19th, 2019
+For Credit: Yes
+Would Take Again: No
+Grade: D
+Textbook: No
+A whole tragedy. Don't do it. But you probably have no choice.
+Tags: Tough Grader
+
+Quality: 3.0
+Difficulty: 5.0
+Course: CSCI201
+Date: Dec 19th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+This class was HARD. Period. The worst part was the online homework. The questions are not from any text book & it can take 8 hours to pass a single hw. If you want any hope of understanding material, YOU MUST GO TO HIM. He does respond to email quickly though. Exams are exactly like hw, but different numbers. Mips projects are graded with script.
+Tags: Tough Grader, Skip Class? You Won'T Pass., Accessible Outside Class
