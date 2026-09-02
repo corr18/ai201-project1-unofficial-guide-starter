@@ -24,16 +24,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RateMyProfessors — Howard University CS professor index | Listing page (used to locate the professors below) | https://www.ratemyprofessors.com/search/professors/421?did=11 |
+| 2 | Jeremy Blackstone — Computer Science, Howard University | Student reviews (12 ratings) | https://www.ratemyprofessors.com/professor/2640220 — `documents/rmp_jeremy-blackstone.txt` |
+| 3 | Anamika Rupa — Computer Science, Howard University | Student reviews (6 ratings) | https://www.ratemyprofessors.com/professor/2976470 — `documents/rmp_anamika-rupa.txt` |
+| 4 | Noha Hazzazi — Computer Science, Howard University | Student reviews (14 ratings) | https://www.ratemyprofessors.com/professor/2418869 — `documents/rmp_noha-hazzazi.txt` |
+| 5 | Saurav Aryal — Computer Science, Howard University | Student reviews (8 ratings) | https://www.ratemyprofessors.com/professor/2672438 — `documents/rmp_saurav-aryal.txt` |
+| 6 | Howard University — school page | School-level student comments | https://www.ratemyprofessors.com/school/421 — `documents/rmp_howard-school.txt` |
+| 7 | Alex Krentsel — Computer Science, Howard University | Student reviews (2 ratings) | https://www.ratemyprofessors.com/professor/2725790 — `documents/rmp_alex-krentsel.txt` |
+| 8 | Jiang Li — Computer Science, Howard University | Student reviews (25 ratings) | https://www.ratemyprofessors.com/professor/2323879 — `documents/rmp_jiang-li.txt` |
+| 9 | Gloria Washington — Computer Science, Howard University | Student reviews (18 ratings) | https://www.ratemyprofessors.com/professor/2084505 — `documents/rmp_gloria-washington.txt` |
+| 10 | Coursicle — Howard CSCI course catalog | Course listings (codes, titles, instructors) | https://coursicle.com/howard/courses/CSCI/ — `documents/coursicle_csci_courses.txt` |
 
 ---
 

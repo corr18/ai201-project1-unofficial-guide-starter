@@ -20,16 +20,18 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | | https://www.ratemyprofessors.com/search/professors/421?did=11&q=*&utm_source
-| 2 | | | |https://www.ratemyprofessors.com/professor/2640220?utm_source
-| 3 | | | |https://www.ratemyprofessors.com/professor/2976470?utm_source
-| 4 | | | |https://www.ratemyprofessors.com/professor/2418869?utm_source
-| 5 | | | |https://www.ratemyprofessors.com/professor/2672438?utm_source
-| 6 | | | |https://www.ratemyprofessors.com/school/421?utm_source
-| 7 | | | |ratemyprofessors.com/professor/2725790
-| 8 | | | |ratemyprofessors.com/professor/2323879
-| 9 | | | |ratemyprofessors.com/professor/2084505
-| 10 | | | |coursicle.com/howard/courses/CSCI
+| 1 | RateMyProfessors — Howard CS professor index | Listing page I used to find every CS professor with reviews; not a review source itself | https://www.ratemyprofessors.com/search/professors/421?did=11 |
+| 2 | Jeremy Blackstone (RMP) | 12 student reviews, 4.8/5 quality, 2.3 difficulty, 92% would take again | https://www.ratemyprofessors.com/professor/2640220 → `documents/rmp_jeremy-blackstone.txt` |
+| 3 | Anamika Rupa (RMP) | 6 reviews, 2.0/5 quality, 3.2 difficulty, 17% would take again — a low-rated counterweight | https://www.ratemyprofessors.com/professor/2976470 → `documents/rmp_anamika-rupa.txt` |
+| 4 | Noha Hazzazi (RMP) | 14 reviews, 3.9/5 quality, 3.6 difficulty, 72% would take again | https://www.ratemyprofessors.com/professor/2418869 → `documents/rmp_noha-hazzazi.txt` |
+| 5 | Saurav Aryal (RMP) | 8 reviews, 3.8/5 quality, 2.9 difficulty, 63% would take again | https://www.ratemyprofessors.com/professor/2672438 → `documents/rmp_saurav-aryal.txt` |
+| 6 | Howard University school page (RMP) | School-level student comments — campus context rather than a single course | https://www.ratemyprofessors.com/school/421 → `documents/rmp_howard-school.txt` |
+| 7 | Alex Krentsel (RMP) | 2 reviews, 5.0/5 quality, 4.0 difficulty — small sample, useful for testing thin retrieval | https://www.ratemyprofessors.com/professor/2725790 → `documents/rmp_alex-krentsel.txt` |
+| 8 | Jiang Li (RMP) | 25 reviews, 1.6/5 quality, 4.7 difficulty, 16% would take again — the largest and most negative set | https://www.ratemyprofessors.com/professor/2323879 → `documents/rmp_jiang-li.txt` |
+| 9 | Gloria Washington (RMP) | 18 reviews, 2.7/5 quality, 3.7 difficulty, 42% would take again — mixed opinions | https://www.ratemyprofessors.com/professor/2084505 → `documents/rmp_gloria-washington.txt` |
+| 10 | Coursicle — Howard CSCI course listings | Course codes and titles, so questions naming a course number can be matched to the right reviews | https://coursicle.com/howard/courses/CSCI/ → `documents/coursicle_csci_courses.txt` |
+
+**Expected corpus size:** 85 reviews across the 7 professor pages, so roughly 85–95 chunks once the school and Coursicle pages are added — above the 50-chunk floor and far under the 2,000 ceiling.
 
 ---
 

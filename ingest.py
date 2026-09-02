@@ -108,6 +108,7 @@ BOILERPLATE_PATTERNS = [
     r"^advertisement$",
     r"^ad$",
     r"^skip to (main )?content$",
+    r"^>>> paste",  # the placeholder line in a fresh documents/ stub file
     r"^follow us",
     r"^download the app",
     r"^app store$",
@@ -228,14 +229,16 @@ def parse_header(text: str) -> tuple[dict, str]:
         if SEPARATOR_RE.match(stripped):
             consumed = i + 1
             break
-        match = re.match(r"^([A-Za-z_ ]{3,20}):\s*(.+)$", stripped)
-        if not match:
-            # First non-header line: this file has no front matter.
-            return metadata, text
-        key = match.group(1).strip().lower().replace(" ", "_")
+        # A key with no value is allowed (e.g. `PROFESSOR:` on a school page).
+        match = re.match(r"^([A-Za-z_ ]{3,20}):\s*(.*)$", stripped)
+        key = match.group(1).strip().lower().replace(" ", "_") if match else None
         if key not in {"source", "url", "professor", "course", "department", "school"}:
-            return metadata, text
-        metadata["source" if key == "url" else key] = match.group(2).strip()
+            # Not front matter. Return the body from here, keeping any keys
+            # already parsed so their lines don't leak into the chunks.
+            return metadata, "\n".join(lines[i:]) if metadata else text
+        value = match.group(2).strip()
+        if value:
+            metadata["source" if key == "url" else key] = value
         consumed = i + 1
     return metadata, "\n".join(lines[consumed:])
 

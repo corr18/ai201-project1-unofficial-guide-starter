@@ -1,0 +1,5 @@
+SOURCE: https://coursicle.com/howard/courses/CSCI/
+SCHOOL: Howard University
+DEPARTMENT: Computer Science
+---
+>>> PASTE the CSCI course listings (code, title, instructor) here. Delete this line.

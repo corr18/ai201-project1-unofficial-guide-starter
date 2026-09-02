@@ -1,0 +1,5 @@
+SOURCE: https://www.ratemyprofessors.com/school/421
+PROFESSOR: 
+SCHOOL: Howard University
+---
+>>> PASTE the school-level student comments here, one blank line between each. Delete this line.

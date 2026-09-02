@@ -1,0 +1,6 @@
+SOURCE: https://www.ratemyprofessors.com/professor/2323879
+PROFESSOR: Jiang Li
+DEPARTMENT: Computer Science
+SCHOOL: Howard University
+---
+>>> PASTE Jiang Li's 25 review cards below, one blank line between each. Delete this line.
