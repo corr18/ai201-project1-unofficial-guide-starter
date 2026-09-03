@@ -3,9 +3,16 @@ chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# Query interface (Milestone 5)
+gradio>=6.9.0
+
+# Pinned: gradio pulls huggingface-hub>=1.16, which transformers 4.57 (used by
+# sentence-transformers) refuses to run under. This pin keeps embedding working.
+huggingface-hub>=0.34.0,<1.0
+
+# Browser automation for collect_sources.py — RateMyProfessors renders its
+# review cards client-side, so a plain HTTP fetch returns none of them.
+playwright>=1.40
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4
