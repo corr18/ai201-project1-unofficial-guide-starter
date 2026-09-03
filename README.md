@@ -409,3 +409,5 @@ python app.py                      # 6. Gradio UI at http://localhost:7860
 | [`app.py`](app.py) | Gradio query interface |
 
 **Note on the LLM:** the course's suggested model `meta-llama/llama-4-scout-17b-16e-instruct` returns 404 `model_not_found` on my Groq account, so the default is `openai/gpt-oss-120b` (also free tier), with fallbacks and a `GROQ_MODEL` environment override.
+
+video-https://youtu.be/aKyPVhpcfp8
