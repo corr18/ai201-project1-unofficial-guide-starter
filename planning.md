@@ -84,11 +84,13 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | | What do students say about the difficulty of Professor X's exams?| Review should summarize whether students generlly describe professor X's exams as easy, medium or hard and potetially include any comments about preparation or exam material. 
-| 2 | | |What do students say about the workload for CSCI 245 with Professor X? Students generally describe the workload as [manageable/heavy/etc.], with reviews mentioning the amount of homework, projects, or studying required.
-| 3 | | |Which professors in the collected reviews are described as giving useful feedback on assignments or projects? The system should identify professors whose reviews specifically mention detailed, helpful, or constructive feedback and cite the reviews supporting those claims.
-| 4 | | | What do students say about Professor X's teaching style in CSCI 135?The answer should summarize comments about Professor X's lectures, explanations, availability, and ability to communicate course concepts, rather than relying only on the professor's overall rating.
-| 5 | | | Based on student reviews, how does Professor X compare with Professor Y for workload and exam difficulty? The system should compare the two professors using evidence from their respective reviews, identifying differences in workload and exam difficulty and citing the relevant sources.
+| 1 | What do students say about the difficulty of Jiang Li's exams? | Should summarize whether students generally describe his exams as easy, medium or hard, and include any comments about preparation or exam material. |
+| 2 | What is the workload like for CSCI 201 with Jiang Li? | Should describe the workload as manageable/heavy/etc., with reviews mentioning the amount of homework, projects, or studying required. |
+| 3 | Which professors give useful feedback on assignments or projects? | Should identify professors whose reviews specifically mention detailed, helpful, or constructive feedback, and cite the reviews supporting those claims. |
+| 4 | What do students say about Gloria Washington's teaching style in CSCI 135? | Should summarize comments about her lectures, explanations, availability, and ability to communicate course concepts, rather than relying only on her overall rating. |
+| 5 | How do Jiang Li and Jeremy Blackstone compare on workload and exam difficulty? | Should compare the two using evidence from each one's reviews, identifying differences in workload and exam difficulty and citing the relevant sources. |
+
+**Note (Milestone 4):** the placeholders "Professor X" and "CSCI 245" were instantiated with professors and courses that actually appear in the collected corpus — CSCI 245 has no reviews in it, so question 2 uses CSCI 201, Jiang Li's most-reviewed course. Results for all five are in the Evaluation Report in README.md.
 
 ---
 
