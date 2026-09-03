@@ -17,12 +17,13 @@ import gradio as gr
 from embed import DEFAULT_K
 from generate import ask
 
+# Ordered for the demo: three that work, one that fails, one out of scope.
 EXAMPLES = [
     "What do students say about the difficulty of Jiang Li's exams?",
-    "What is the workload like for CSCI 201 with Jiang Li?",
     "What do students say about Gloria Washington's teaching style in CSCI 135?",
     "How do Jiang Li and Jeremy Blackstone compare on workload and exam difficulty?",
-    "Is Jeremy Blackstone good for a first programming class?",
+    "Which professors give useful feedback on assignments or projects?",
+    "What are the best dining halls on Howard's campus and what are the wait times at lunch?",
 ]
 
 
